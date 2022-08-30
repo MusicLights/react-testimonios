@@ -5,14 +5,14 @@ function App() {
   return (
     <div className="App">
       <div className='contenedor-principal'>
-        <h1>Tesitmonios en React</h1>
+        <h1>Testimonios en React</h1>
         <Testimonio 
           nombre='Emma Bostian'
           pais='Suecia'
           img='1'
           cargo='Ingeniero de Software'
           empresa='Spotify'
-          testimonio='Siempre he tenido problemas para aprender JavaScript. Tomé muchos cursos, pero el curso de freeCodeCamp fue el que se quedó. Estudiar JavaScript, así como estructuras de datos y algoritmos en freeCodeCamp me dio las habilidades y la confianza que necesitaba para conseguir el trabajo de mis sueños como un ingeniero de software en Spotify'/>
+          testimonio='Siempre he tenido problemas para aprender JavaScript. Tomé muchos cursos, pero el curso de freeCodeCamp fue el que se quedó. Estudiar JavaScript, así como estructuras de datos y algoritmos en freeCodeCamp me dio las habilidades y la confianza que necesitaba para conseguir el trabajo de mis sueños como un ingeniero de software en Spotify.'/>
            <Testimonio 
           nombre='Shawn Wang'
           pais='Singapur'
