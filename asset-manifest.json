@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/react-testimonios/static/css/main.bbdd6ff2.css",
-    "main.js": "/react-testimonios/static/js/main.82fcc491.js",
+    "main.js": "/react-testimonios/static/js/main.f326bd6f.js",
     "static/media/testimonio1.png": "/react-testimonios/static/media/testimonio1.add10415a5668325d2f2.png",
     "static/media/testimonio3.png": "/react-testimonios/static/media/testimonio3.2c504d1ebaf1961e4a40.png",
     "static/media/testimonio2.png": "/react-testimonios/static/media/testimonio2.0d373888087fb18fc145.png",
     "index.html": "/react-testimonios/index.html",
     "main.bbdd6ff2.css.map": "/react-testimonios/static/css/main.bbdd6ff2.css.map",
-    "main.82fcc491.js.map": "/react-testimonios/static/js/main.82fcc491.js.map"
+    "main.f326bd6f.js.map": "/react-testimonios/static/js/main.f326bd6f.js.map"
   },
   "entrypoints": [
     "static/css/main.bbdd6ff2.css",
-    "static/js/main.82fcc491.js"
+    "static/js/main.f326bd6f.js"
   ]
 }
