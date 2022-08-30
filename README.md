@@ -1,4 +1,6 @@
-<<<<<<< HEAD
+https://musiclights.github.io/react-testimonios/
+
+
 # react-testimonios
 =======
 # Getting Started with Create React App
